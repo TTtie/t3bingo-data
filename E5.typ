@@ -5,5 +5,5 @@
 #let description = [
   Stand near a person completing an objective
 ]
-#let officialName = []
+#let officialName = [Moral Support]
 #let hidden = false

@@ -4,5 +4,5 @@
 #let description = [
   Get 3 kills in a row
 ]
-#let officialName = []
+#let officialName = [Blitzkrieg]
 #let hidden = false

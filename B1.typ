@@ -4,5 +4,5 @@
 #let description = [
   Get a kill while in a cobweb
 ]
-#let officialName = []
+#let officialName = [Spider's Parlour]
 #let hidden = false

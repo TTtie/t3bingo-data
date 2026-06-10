@@ -4,5 +4,5 @@
 #let description = [
   Kill somebody with an axe
 ]
-#let officialName = []
+#let officialName = [Armed & Dangerous]
 #let hidden = false

@@ -4,5 +4,5 @@
 #let description = [
   Place a flower in a pot
 ]
-#let officialName = []
+#let officialName = [Flower Arrangement]
 #let hidden = false

@@ -4,5 +4,5 @@
 #let description = [
   Drop an anvil on yourself
 ]
-#let officialName = []
+#let officialName = [Heavy Metal]
 #let hidden = false

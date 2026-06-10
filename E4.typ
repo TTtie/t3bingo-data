@@ -4,5 +4,5 @@
 #let description = [
   Walk into a cactus
 ]
-#let officialName = []
+#let officialName = [Prickly Customer]
 #let hidden = false

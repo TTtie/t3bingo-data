@@ -4,5 +4,5 @@
 #let description = [
   Get 8 different colors of wool in your inventory (progress goal)
 ]
-#let officialName = []
+#let officialName = [Chromatic Collector]
 #let hidden = false

@@ -4,5 +4,5 @@
 #let description = [
   Kill somebody while holding the wool
 ]
-#let officialName = []
+#let officialName = [Sheepish Slayer]
 #let hidden = false

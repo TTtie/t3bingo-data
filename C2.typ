@@ -1,9 +1,8 @@
 #import "./_lib.typ": *
 
 #let unlockDate = datetime(year: 2026, month: 6, day: 4, hour: 19, minute: 30, second: 0)
-#let colorType = "uncertain"
 #let description = [
-  Block multiple arrow shots in a row
+  Have many arrows stuck to you at once
 ]
-#let officialName = []
+#let officialName = [Walking Hedgehog]
 #let hidden = false
