@@ -5,5 +5,5 @@
 #let description = [
   Eat a golden apple while leaving a wool room / being full
 ]
-#let officialName = []
+#let officialName = [Gilded Greed]
 #let hidden = false

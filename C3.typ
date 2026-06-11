@@ -4,5 +4,5 @@
 #let description = [
   Launch yourself up using a cannon
 ]
-#let officialName = []
+#let officialName = [Skybound Aviator]
 #let hidden = false

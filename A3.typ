@@ -4,5 +4,5 @@
 #let description = [
   Drop a set of armor at somebody
 ]
-#let officialName = []
+#let officialName = [Iron Angel]
 #let hidden = false

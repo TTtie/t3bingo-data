@@ -4,5 +4,5 @@
 #let description = [
   Catch a fish
 ]
-#let officialName = []
+#let officialName = [Gone Fishin']
 #let hidden = false

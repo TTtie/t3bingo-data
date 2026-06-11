@@ -4,5 +4,5 @@
 #let description = [
   Vote for all but a single map
 ]
-#let officialName = []
+#let officialName = [Spoilt for Choice]
 #let hidden = false

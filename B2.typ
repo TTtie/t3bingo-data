@@ -4,5 +4,5 @@
 #let description = [
   Craft a crafting table inside of a crafting table
 ]
-#let officialName = []
+#let officialName = [Craftception]
 #let hidden = false
