@@ -1,8 +1,7 @@
 #import "./_lib.typ": *
 
-#let unlockDate = datetime(year: 2026, month: 6, day: 3, hour: 19, minute: 30, second: 0)
+#let unlockDate = none
 #let description = [
-  Kill somebody with an axe
 ]
-#let officialName = [Armed & Dangerous]
+#let officialName = []
 #let hidden = false
