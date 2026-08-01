@@ -1,0 +1,52 @@
+C3.typ
+  h_a954843f2693a3 3
+D2.typ
+  h_a954843f2693a3 3
+C4.typ
+  h_a954843f2693a3 3
+B5.typ
+  h_a954843f2693a3 3
+E1.typ
+  h_a954843f2693a3 3
+D5.typ
+  h_a954843f2693a3 3
+B3.typ
+  h_a954843f2693a3 3
+A3.typ
+  h_a954843f2693a3 3
+B1.typ
+  h_a954843f2693a3 3
+A1.typ
+  h_a954843f2693a3 3
+A5.typ
+  h_a954843f2693a3 3
+D4.typ
+  h_a954843f2693a3 3
+E3.typ
+  h_a954843f2693a3 3
+B2.typ
+  h_a954843f2693a3 3
+E2.typ
+  h_a954843f2693a3 3
+C5.typ
+  h_a954843f2693a3 3
+A4.typ
+  h_a954843f2693a3 3
+D1.typ
+  h_a954843f2693a3 3
+C2.typ
+  h_a954843f2693a3 3
+E4.typ
+  h_a954843f2693a3 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "dcba2cb056143b41d7fd82ff556d04c8becc3efb",
+  "prompts": {},
+  "humans": {
+    "h_a954843f2693a3": {
+      "author": "TTtie <me@tttie.cz>"
+    }
+  }
+}
