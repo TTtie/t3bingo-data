@@ -1,0 +1,16 @@
+B4.typ
+  h_a954843f2693a3 5
+A2.typ
+  h_a954843f2693a3 4,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "015cb7c17728f4107f49c03552f0810a6d24042c",
+  "prompts": {},
+  "humans": {
+    "h_a954843f2693a3": {
+      "author": "TTtie <me@tttie.cz>"
+    }
+  }
+}
