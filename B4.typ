@@ -1,8 +1,9 @@
 #import "./_lib.typ": *
 
 #let unlockDate = none
+#let colorType = "uncertain"
 #let description = [
-  Shear some leaves
+  Something involving leaf shearing?
 ]
 #let officialName = []
 #let hidden = false
