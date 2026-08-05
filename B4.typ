@@ -3,7 +3,7 @@
 #let unlockDate = none
 #let colorType = "uncertain"
 #let description = [
-  Something involving leaf shearing?
+  Something involving leaf shearing? Different leaf types at the same time?
 ]
 #let officialName = []
 #let hidden = false
