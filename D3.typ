@@ -2,7 +2,7 @@
 
 #let unlockDate = none
 #let description = [
-  Drop spruce wood into the void
+  Drop a spruce/jungle log into the void
 ]
 #let officialName = []
 #let hidden = false
