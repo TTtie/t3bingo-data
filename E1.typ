@@ -4,5 +4,5 @@
 #let description = [
   Kill somebody with a bow shortly after they respawn
 ]
-#let officialName = []
+#let officialName = [Fresh Blood]
 #let hidden = false

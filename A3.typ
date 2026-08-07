@@ -4,5 +4,5 @@
 #let description = [
   Pass the beach ball gotten from secret chests and hit a player
 ]
-#let officialName = []
+#let officialName = [Lay Claim]
 #let hidden = false

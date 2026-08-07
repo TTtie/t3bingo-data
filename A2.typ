@@ -2,7 +2,7 @@
 
 #let unlockDate = none
 #let description = [
-  Use an empty bucket while looking at the sun
+  Use an empty bucket while looking at the sun to get a molten core
 ]
-#let officialName = []
+#let officialName = [Pocket Sunshine]
 #let hidden = false

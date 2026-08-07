@@ -4,5 +4,5 @@
 #let description = [
     Place a sign on a chest
 ]
-#let officialName = []
+#let officialName = [Open for Business]
 #let hidden = false

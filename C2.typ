@@ -4,5 +4,5 @@
 #let description = [
   Put a molten core into the furnace
 ]
-#let officialName = []
+#let officialName = [Blast Furnace]
 #let hidden = false

@@ -4,5 +4,5 @@
 #let description = [
   Drop a spruce/jungle log into the void
 ]
-#let officialName = []
+#let officialName = [Log Off]
 #let hidden = false
