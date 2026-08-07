@@ -5,5 +5,5 @@
 #let description = [
   Mine a secret chest obtained by mining dirt (can be placed dirt) and obtain XP bottles
 ]
-#let officialName = []
+#let officialName = [X Marks the Spot]
 #let hidden = false

@@ -4,5 +4,5 @@
 #let description = [
     Place a bean sprout from a dirt chest on grass and have it fully grow
 ]
-#let officialName = []
+#let officialName = [Bean There]
 #let hidden = false

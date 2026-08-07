@@ -5,5 +5,5 @@
 #let description = [
     Take off your armor for \~1 minute
 ]
-#let officialName = []
+#let officialName = [No Shade]
 #let hidden = false
