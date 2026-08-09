@@ -4,5 +4,5 @@
 #let description = [
   Pick up the flag 4 times in a single match
 ]
-#let officialName = []
+#let officialName = [Fetch Quest]
 #let hidden = false
