@@ -4,5 +4,5 @@
 #let description = [
   In observer mode, run towards sunflower coins that spawn near you
 ]
-#let officialName = []
+#let officialName = [Loose Change]
 #let hidden = false

@@ -5,5 +5,5 @@
 #let description = [
   Kill someone with your fist and without armor
 ]
-#let officialName = [Groundhog Day]
+#let officialName = []
 #let hidden = false

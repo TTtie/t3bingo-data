@@ -6,5 +6,5 @@
   Play 3 matches of different game modes(?) in a row \
   #small[Progress goal.]
 ]
-#let officialName = []
+#let officialName = [Groundhog Day]
 #let hidden = false
