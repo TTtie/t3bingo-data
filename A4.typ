@@ -4,5 +4,5 @@
 #let description = [
     Use bone meal to grow a tree
 ]
-#let officialName = []
+#let officialName = [Root Awakening]
 #let hidden = false

@@ -5,5 +5,5 @@
 #let description = [
   (progress goal)
 ]
-#let officialName = []
+#let officialName = [Robin Hood]
 #let hidden = false
