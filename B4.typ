@@ -1,9 +1,8 @@
 #import "./_lib.typ": *
 
 #let unlockDate = none
-#let colorType = "uncertain"
 #let description = [
-  Make your shears break
+  Shear a bunch of grass
 ]
 #let officialName = [Mow Problem]
 #let hidden = false
