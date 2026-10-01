@@ -2,7 +2,6 @@
 
 #let unlockDate = none
 #let description = [
-  Shear a bunch of grass
 ]
-#let officialName = [Mow Problem]
+#let officialName = []
 #let hidden = false

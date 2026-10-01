@@ -1,8 +1,7 @@
 #import "./_lib.typ": *
 
-#let unlockDate = datetime(year: 2026, month: 8, day: 4, hour: 17, minute: 0, second: 0)
+#let unlockDate = none
 #let description = [
-  Bob in at least 3 block deep pool of water with a piece of chicken
 ]
-#let officialName = [Surf's Up]
+#let officialName = []
 #let hidden = false
