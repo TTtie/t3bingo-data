@@ -1,7 +1,7 @@
 #import "./_lib.typ": *
 
 #let unlockDate = none
-#let colorType = "uncertain"
+#let colorType = "locked"
 #let description = [
   (progress goal)
 ]
