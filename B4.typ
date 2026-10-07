@@ -5,5 +5,5 @@
   Spectate somebody from their point of view for \~2 minutes \
   #small[Use `/tools` to get into spectator mode.]
 ]
-#let officialName = []
+#let officialName = [The Haunting]
 #let hidden = false

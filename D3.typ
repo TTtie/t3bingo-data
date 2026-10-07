@@ -3,5 +3,5 @@
 #let unlockDate = none
 #let description = [
 ]
-#let officialName = []
+#let officialName = [Jump Scare]
 #let hidden = false
