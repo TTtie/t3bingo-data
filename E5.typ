@@ -3,5 +3,5 @@
 #let unlockDate = none
 #let description = [
 ]
-#let officialName = []
+#let officialName = [Monster Mash]
 #let hidden = false
