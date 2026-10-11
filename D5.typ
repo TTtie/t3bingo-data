@@ -2,5 +2,5 @@
 
 #let description = [
 ]
-#let officialName = []
+#let officialName = [Blood Lust]
 #let hidden = false
