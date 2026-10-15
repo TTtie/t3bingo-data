@@ -3,5 +3,5 @@
 #let description = [
   Kill someone and have their head drop
 ]
-#let officialName = []
+#let officialName = [Off With Their Heads]
 #let hidden = false
