@@ -6,5 +6,5 @@
   Have 3 different custom potion effects at the same time \
   (progress goal)
 ]
-#let officialName = []
+#let officialName = [How did we get here?]
 #let hidden = false

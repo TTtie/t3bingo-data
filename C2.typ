@@ -2,5 +2,5 @@
 
 #let description = [
 ]
-#let officialName = []
+#let officialName = [Rise Again]
 #let hidden = false
